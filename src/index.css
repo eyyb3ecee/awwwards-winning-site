@@ -81,7 +81,7 @@ body {
   }
 
   .animated-title {
-    @apply flex flex-col gap-1 text-7xl uppercase leading-[.8] text-white sm:px-32 md:text-[7.5rem];
+    @apply flex flex-col gap-1 text-7xl uppercase leading-[.8] text-white sm:px-32 md:text-[6rem];
   }
 
   .animated-word {
@@ -104,7 +104,7 @@ body {
   }
 
   .story-img-container {
-    @apply relative md:h-dvh h-[60vh] w-full;
+    @apply relative md:h-dvh h-[90vh] w-full;
     filter: url("#flt_tag");
   }
 
